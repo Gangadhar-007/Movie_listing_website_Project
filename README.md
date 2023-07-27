@@ -1,4 +1,3 @@
-# Movie_Listing_WepApp_project
 # Movie_listing_website_Project
 Deploying a movie listing web application in AWS cloud infrastructure with proper load balancing involves several key points to ensure a scalable, reliable, and efficient setup. 
   Here are the main points for the project:
